@@ -20,6 +20,6 @@
 </head>
 <body>
     
- <img class="w-screen h-screen absolute m-0" src="{{ asset('img/main.jpg') }}" alt="main-image">
+ <img class="w-full h-screen absolute m-0 lazy" src="{{ asset('img/main.jpg') }}" alt="main-image">
 </body>
 </html>
