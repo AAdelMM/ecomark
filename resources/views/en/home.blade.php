@@ -20,7 +20,7 @@
         @include('en.sections.contact')
     </section>
 
-    <!-- Arabic Sections -->
+    <!-- Arabic Sections check -->
     <section id="hero-ar" class="section">
         @include('ar.sections.hero')
     </section>

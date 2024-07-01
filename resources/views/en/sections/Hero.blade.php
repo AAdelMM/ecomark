@@ -1,7 +1,7 @@
 @extends('en.layout.main')
 
 
-
+<!--check-->
 <section class="hero-section flex  flex-row justify-center relative lg:mt-[30vh]">
     <div class="hero h-full container  flex flex-1 justify-center items-center  top-[1vh] lg:top-0">
          <div class="hero-text w-full lg:w-[50vw] h-[50%]  text-center  flex-col flex  justify-center items-center ">

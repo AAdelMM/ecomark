@@ -3,7 +3,7 @@
 
 @section('content')
 
-
+<!--check-->
 <section class="flex justify-center lg:mt-[30vh]">
     <div class="hero h-full container  inline-flex justify-center items-center">
     <div class="Hero-text w-[50vw] h-[50%]  text-center text-[5rem] flex justify-center"><img src="{{ asset('img/hero.svg') }}" alt=""></div>
