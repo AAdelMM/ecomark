@@ -114,8 +114,10 @@ body{
          .mobile{
             opacity:1;
             position:absolute;
-            top:5rem;
-            margin-top:5rem;
+            top:30vh;
+            margin-top:30vh;
+            width:90vw;
+            height:50vh;
          }
          .mobile, img{
             width:90vw;
