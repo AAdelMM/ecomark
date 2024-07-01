@@ -23,6 +23,15 @@ body{
       }
 #mobile-menu{
     background-color:rgba(85, 199, 120, 0.08);
+    justify-items:center;
+    justify-content:center;
+    height:auto;
+}
+.lang-switch{
+   width:100%;
+   justify-content:center;
+   margin:4rem;
+   
 }
       /* Basic style for the select element */
      
@@ -35,21 +44,25 @@ body{
         }
 
         .hero{
-            margin-top:10rem;
+            overflow:hidden;
             margin-x:auto;
+            
+            height:100vh;
         }
 
         .hero-text{
             position:absolute;
-            margin-top:35rem;
+            margin-top:5rem;
             width:100vw;
+            top:2rem;
         }
 
-       .Hero-image, {
+       .Hero-image {
+            
            
-            margin-top:30vh:
+            padding-top:15rem;
             display:block;
-            width:100vw;
+            width:90vw;
         }
     }
 

@@ -29,7 +29,7 @@
     
 </div>
      <!-- Mobile Menu (hidden initially, shown when button is clicked) -->
-     <div id="mobile-menu" class="hidden lg:hidden bg-sky-100 w-[50%] absolute right-0 top-[4rem] text-center py-2">
+     <div id="mobile-menu" class="hidden lg:hidden bg-sky-100 w-[50%] absolute right-0 top-[4rem] text-center py-2 z-[5]">
         <ul class="text-[1rem] font-bold text-[#516091]">
             <li class="py-2">Home</li>
             <li class="py-2">Services</li>
@@ -37,8 +37,9 @@
             <li class="py-2">Testimonials</li>
             <li class="py-2">Contact</li>
             <li class="py-2">About</li>
+            <div class="lang-switch py-2"><x-language-switcher /></div>
         </ul>
-        <div class="py-2"><x-language-switcher /></div>
+        
     </div>
 </header>
 
