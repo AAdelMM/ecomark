@@ -43,6 +43,10 @@
         }
 
             </script>
+            <style>
+                @import url("http://www.fontstatic.com/f=sky-bold,sky");
+                @import url("http://www.fontstatic.com/f=dubai,dubai-light,dubai-medium,dubai-bold");
+            </style>
 </head>
 
 <body>

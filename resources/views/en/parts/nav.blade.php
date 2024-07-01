@@ -8,11 +8,11 @@
     <div class="logo w-[7rem] h-[4rem] inline-flex mx-2 items-center"><img src="{{ asset('img/logo.svg') }}" alt="Logo"></div>
     <div class="menu hidden flex-auto lg:flex justify-center items-center">
         <ul class="inline-flex justify-center w-[70vw] text-[1.2rem] absolute font-bold text-[#516091]">
-            <li class="mx-2">Home</li>
-            <li class="mx-2">Services</li>
-            <li class="mx-2">Team</li>
+            <li class="mx-2"><a href="#hero" class="menu-link">Home</a></li>
+            <li class="mx-2"><a href="#services" class="menu-link">Services</a></li>
+            <li class="mx-2"><a href="#team" class="menu-link">Team</a></li>
             <li class="mx-2">Testimonials</li>
-            <li class="mx-2">Contact</li>
+            <li class="mx-2"><a href="#contact" class="menu-link">Contact</a></li>
             <li class="mx-2">About</li>
             
         </ul>
@@ -31,11 +31,11 @@
      <!-- Mobile Menu (hidden initially, shown when button is clicked) -->
      <div id="mobile-menu" class="hidden lg:hidden bg-sky-100 w-[50%] absolute right-0 top-[4rem] text-center py-2 z-[5]">
         <ul class="text-[1rem] font-bold text-[#516091]">
-            <li class="py-2">Home</li>
-            <li class="py-2">Services</li>
-            <li class="py-2">Team</li>
+            <li class="py-2"><a href="#hero" class="menu-link">Home</a></li>
+            <li class="py-2"><a href="#services" class="menu-link">Services</a></li>
+            <li class="py-2"><a href="#team" class="menu-link">Team</a></li>
             <li class="py-2">Testimonials</li>
-            <li class="py-2">Contact</li>
+            <li class="py-2"><a href="#contact" class="menu-link">Contact</a></li>
             <li class="py-2">About</li>
             <li><div class="lang-switch py-2"><x-language-switcher /></div></li>
         </ul>

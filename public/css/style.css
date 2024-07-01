@@ -27,6 +27,34 @@ body{
     justify-content:center;
     height:auto;
 }
+/*contact us*/
+/* Initial hidden state for the mobile div */
+.contact{
+    position: relative;
+}
+.mobile {
+    position: relative; /* Required for absolute positioning to work */
+    transform: translateY(100vh); /* Move it off-screen to the bottom initially */
+    opacity: 0; /* Start with it invisible */
+    
+    transition: transform 8s ease-out, opacity 5s ease-out; /* Smooth transition */
+}
+
+.contact:hover .mobile{
+    opacity:1;
+    transform: translateY(0vh); /* Move it off-screen to the bottom initially */
+}
+/* Visible state after animation */
+ 
+.mobile img {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    max-width: none; /* Override any potential max-width constraints */
+    display: block; /* Ensure the image is a block-level element */
+    transition: inherit; /* Apply the same transition effect */
+}
+
+
 
       /* Basic style for the select element */
      
@@ -67,6 +95,31 @@ body{
         }
         .lang-switch{
             justify-content:center;
+         }
+
+         .contact{
+            overflow:hidden;
+            position:relative;
+            height:100vh;
+         }
+         .contact-content{
+            display:flex;
+            flex-direction:column;
+            justify-items:start;
+            align-items:center;
+         }
+         .form{
+            margin-top:0;
+         }
+         .mobile{
+            opacity:1;
+            position:absolute;
+            top:0;
+            margin-top:0;
+         }
+         .mobile, img{
+            width:50px;
+            height:50px;
          }
     }
 

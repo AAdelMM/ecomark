@@ -45,14 +45,29 @@ function switchLanguage(locale) {
 }
 
     </script>
+    <style>
+           .section {
+            display: none;
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .section.active {
+            display: block;
+            opacity: 1;
+        }
+    </style>
+    
 </head>
 <body>
 
    
+ <!-- Navbar -->
 @yield('content')
-    
-    
-
     
 </body>
 </html>
