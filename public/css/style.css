@@ -61,15 +61,12 @@ body{
 
        .Hero-image {
             
-           
             padding-top:20rem;
             display:block;
             width:90vw;
         }
         .lang-switch{
-            width:100%;
             justify-content:center;
-           
          }
     }
 
