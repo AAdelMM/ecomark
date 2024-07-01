@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
     <meta name="description" content="Catalyze your brand's success with our versatile marketing agency. From innovative digital strategies to impactful campaigns, we specialize in elevating your online presence. Harness cutting-edge techniques in SEO, PPC, and social media to amplify your reach and drive conversions. Let us shape your narrative and propel your business to new heights in the digital realm.| افضل شركات التسويق الرقمى فى دول الخليج">
     <meta property="og:image" content="">
     <meta property="og:title" content="Ecomark Marketing | Your Brand's Success Partner">
-    <meta property="og:description" content="Catalyze your brand's success with our versatile marketing agency. From innovative digital strategies to impactful campaigns, we specialize in elevating your online presence. Harness cutting-edge techniques in SEO, PPC, and social media to amplify your reach and drive conversions. Let us shape your narrative and propel your business to new heights in the digital realm.">
+    <meta property="og:description" content="افضل شركة تسويق فى دول الخليج|| تسويق رقمى للمتاجر الالكترونية|| تطوير مواقع الكترونية|| تنمية اعمال">
     <title>ايكومارك للتسويق الرقمي</title>
     <link rel="shortcut icon" href="" type="image/x-icon"> <!-- Add website favicon -->
     <meta name="description" content="...">

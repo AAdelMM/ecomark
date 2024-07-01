@@ -2,8 +2,8 @@
 
 
 
-<section class="hero-section flex  flex-row justify-center relative ">
-    <div class="hero h-auto container  flex flex-1 justify-center items-center  top-[1vh] lg:top-0">
+<section class="hero-section flex  flex-row justify-center relative lg:mt-[30vh]">
+    <div class="hero h-full container  flex flex-1 justify-center items-center  top-[1vh] lg:top-0">
          <div class="hero-text w-full lg:w-[50vw] h-[50%]  text-center  flex-col flex  justify-center items-center ">
             <h1 class="font-bold text-[2rem] lg:text-[4.5rem] text-[#516091]"> Grow your business faster. </h1>
             <h2 class="font-medium lg:text-[2.5rem] text-[1.5rem]"> We help you attract more leads and convert them into customers.</h2>

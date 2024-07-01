@@ -7,7 +7,7 @@
 <div class="nav container border-3  border-2 border-gray-100 rounded-lg flex items-center justify-between lg:justify-end ">
     <div class="logo w-[7rem] h-[4rem] inline-flex mx-2 items-center"><img src="{{ asset('img/logo.svg') }}" alt="Logo"></div>
     <div class="menu hidden flex-auto lg:flex justify-center items-center">
-        <ul class="inline-flex justify-center w-[70vw] text-[1.2rem] absolute font-bold text-[#516091]">
+        <ul class="inline-flex justify-center w-[70vw] text-[1.2rem] absolute font-bold text-[#516091]" style="font-family: 'sky-bold';">
             <li class="mx-2">عنا</li>
             <li class="mx-2">اتصل بنا</li>
             <li class="mx-2">التقييمات</li>
