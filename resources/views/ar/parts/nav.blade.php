@@ -31,12 +31,12 @@
      <!-- Mobile Menu (hidden initially, shown when button is clicked) -->
      <div id="mobile-menu" class="hidden lg:hidden bg-sky-100 w-[50%] absolute right-0 top-[4rem] text-center py-2 z-[5]">
         <ul class="text-[1rem] font-bold text-[#516091]">
-            <li class="py-2">عنا</li>
-            <li class="py-2">اتصل بنا</li>
-            <li class="py-2">تقيمات</li>
-            <li class="py-2">الفريق</li>
-            <li class="py-2">الخدمات</li>
             <li class="py-2">الرئيسية</li>
+            <li class="py-2">الخدمات</li>
+            <li class="py-2">الفريق</li>
+            <li class="py-2">تقييمات</li>
+            <li class="py-2">تنصل بنا</li>
+            <li class="py-2">عنا</li>
             <li><div class="lang-switch py-2"><x-language-switcher /></div></li>
         </ul>
         

@@ -37,7 +37,7 @@
             <li class="py-2">Testimonials</li>
             <li class="py-2">Contact</li>
             <li class="py-2">About</li>
-            <div class="lang-switch py-2"><x-language-switcher /></div>
+            <li><div class="lang-switch py-2"><x-language-switcher /></div></li>
         </ul>
         
     </div>
