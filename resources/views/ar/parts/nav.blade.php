@@ -37,7 +37,7 @@
             <li class="py-2">الفريق</li>
             <li class="py-2">الخدمات</li>
             <li class="py-2">الرئيسية</li>
-            <div class="lang-switch py-2"><x-language-switcher /></div>
+            <li><div class="lang-switch py-2"><x-language-switcher /></div></li>
         </ul>
         
     </div>
