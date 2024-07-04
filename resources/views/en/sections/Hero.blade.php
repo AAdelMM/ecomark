@@ -9,7 +9,7 @@
             <h2 class="font-medium 2xl:text-[2.5rem] lg:text-[2rem] text-[1.5rem]"> We help you attract more leads and convert them into customers.</h2>
             <p class="opacity-40 text-[1rem]"> Stop wasting marketing dollars.  Get targeted campaigns that deliver real results.</p>
         </div>
-         <div class="hero-image w-[75vw] lg:w-[50vw]   text-center text-[5rem]  flex justify-end"><img src="{{ asset('img/hero.svg') }}" alt=""></div>
+         <div class="hero-image w-[75vw] lg:w-[50vw] py-[2rem]  text-center text-[5rem]  flex justify-end"><img src="{{ asset('img/hero.svg') }}" alt=""></div>
     </div>
 </section>
 
