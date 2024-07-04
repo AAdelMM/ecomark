@@ -7,7 +7,11 @@
                     You can reach us by phone, email, or whatsapp
                     We'll get back to you as quickly as possible.</h3>
         </div>
-        <div class="mobile  w-[35vw] h-[100vh] "><img class="w-[50vw] h-[90vh] mx-0" src="{{asset('img/mobil1.png')}}" alt="mobile">
+        <div class="mobile  w-[35vw] h-[100vh] ">
+            <div class="w-[100%] h-[90vh] mx-0 over-flow-hidden px-2 relative">
+            <img class="absolute" src="{{asset('img/@ecomark.live.png')}}" alt="social contacts">
+            <img class="absolute" src="{{asset('img/mobil1.png')}}" alt="mobile">
+            </div>
         </div>
     </div>
 </div>
