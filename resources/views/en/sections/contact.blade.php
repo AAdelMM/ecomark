@@ -9,8 +9,16 @@
         </div>
         <div class="mobile  w-[35vw] h-[100vh] ">
             <div class="w-[100%] h-[90vh] mx-0 over-flow-hidden px-2 relative">
-            <img class="absolute" src="{{asset('img/@ecomark.live.png')}}" alt="social contacts">
-            <img class="absolute" src="{{asset('img/mobil1.png')}}" alt="mobile">
+                <div class="absolute  h-[90vh] px-5 flex flex-col justify-center items-end z-[5] ">
+                   <a href="https://www.tiktok.com/@ecomark.live"><img class="cursor-pointer " src="{{asset('img/tiktokaccount.png')}}" alt="social contacts"></a> 
+                   <a href="https://wa.me/0097338411475"><img class="cursor-pointer" src="{{asset('img/whatsaccount.png')}}" alt="social contacts"></a> 
+                   <a href=""><img class="cursor-pointer" src="{{asset('img/instaaccount.png')}}" alt="social contacts"></a> 
+                   <a href=""><img class="ml-[-0.5rem]" src="{{asset('img/email.png')}}" alt="social contacts"></a> 
+                </div>
+            <div class="absolute bg-[#D6F1DE]">
+            <img  src="{{asset('img/mobil1.png')}}" alt="mobile">
+            </div>
+            
             </div>
         </div>
     </div>
