@@ -66,33 +66,15 @@ body{
             margin:0;
             padding:0;
         }
-        .hero-section{
+        header{
             margin:auto;
-            display:flex;
-            justify-items:center;
         }
+       
 
-        .hero{
-           
-            margin-x:auto;
-            
-            min-height:100vh;
-        }
+        
 
-        .hero-text{
-            position:absolute;
-            margin-top:5rem;
-            width:100vw;
-            top:2rem;
-            padding-bottom:2erm;
-        }
+      
 
-       .Hero-image {
-            
-            padding-top:20rem;
-            display:block;
-            width:90vw;
-        }
         .lang-switch{
             justify-content:center;
          }

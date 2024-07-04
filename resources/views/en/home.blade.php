@@ -6,7 +6,7 @@
 
 
 <!-- Sections -->
-<div class="content mt-16 relative h-[calc(100vh-4rem)]">
+<div class="content relative h-[calc(100vh-4rem)]">
     <section id="hero-en" class="section active">
         @include('en.sections.hero')
     </section>
